@@ -24,3 +24,5 @@
 /configure.log
 
 .DS_Store
+
+/contrib/vstudio/vc19/x86
